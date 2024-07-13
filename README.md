@@ -1,4 +1,4 @@
-# Robot-s-legs-joints
+# Robot-legs-joints
 3D design of robot's legs joints using Tinkercad.
 
 # My 3D design of robot's legs joints
