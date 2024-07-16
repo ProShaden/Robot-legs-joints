@@ -3,7 +3,8 @@
 
 # My 3D design of robot's legs joints
 
-![1rr](https://github.com/user-attachments/assets/665cc149-2526-4f84-b81c-e4e179d44d48)
+
+![leg1](https://github.com/user-attachments/assets/8b723c2f-aa3b-4440-a38b-62acadf14263)
 
 
-![1r](https://github.com/user-attachments/assets/f3c1ee73-87fc-4623-be16-664f75270d05)
+![leg2](https://github.com/user-attachments/assets/450d21f8-f733-4b73-80dc-bffbfcbc49d9)
